@@ -1,3 +1,3 @@
 # hello_world
 my first github repository 
-i wish everthing will be ok!
+i wish everything will be ok!
